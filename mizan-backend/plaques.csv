@@ -1,0 +1,213 @@
+﻿timestamp,full_plate,first_digits,arabic_letter,last_digits
+2026-08-30T16:47:42,"```json
+{
+    ""first_digits"": ""24896"",
+    ""arabic_letter"": ""A"",
+    ""last_digits"": ""1"",
+    ""full_plate"": ""Le matricule normalis\u00e9 au format first_digits | arabic_letter | last_digits. Ne pas inventer de caract\u00e8re illisible.""
+}
+```",,,
+2026-08-30T16:47:55,"```json
+{
+    ""first_digits"": ""24896"",
+    ""arabic_letter"": ""A"",
+    ""last_digits"": ""1"",
+    ""full_plate"": ""24896 | A | 1""
+}
+```",,,
+2026-08-30T16:48:26,"```json
+{
+    ""first_digits"": ""60567"",
+    ""arabic_letter"": ""A"",
+    ""last_digits"": ""6"",
+    ""full_plate"": ""Le matricule normalis\u00e9 au format first_digits | arabic_letter | last_digits. Ne pas inventer de caract\u00e8re illisible.""
+}
+```",,,
+2026-08-30T16:48:32,"```json
+{
+    ""first_digits"": ""60567"",
+    ""arabic_letter"": ""A"",
+    ""last_digits"": ""6"",
+    ""full_plate"": ""60567 | A | 6""
+}
+```",,,
+2026-08-30T16:48:42,"```json
+{
+    ""first_digits"": ""62407"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""34"",
+    ""full_plate"": ""62407 | i | 34""
+}
+```",,,
+2026-08-30T16:48:56,"```json
+{
+    ""first_digits"": ""52418"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""34"",
+    ""full_plate"": ""52418 | i | 34""
+}
+```",,,
+2026-08-30T16:49:18,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 i i 38""
+}
+```",,,
+2026-08-30T16:49:22,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 i 38""
+}
+```",,,
+2026-08-30T16:49:27,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 | i | 38""
+}
+```",,,
+2026-08-30T16:49:34,"```json
+{
+    ""first_digits"": ""73215"",
+    ""arabic_letter"": ""ل"",
+    ""last_digits"": ""8"",
+    ""full_plate"": ""Le matricule normalis\u00e9 au format first_digits | arabic_letter | last_digits. Ne pas inventer de caract\u00e8re illisible.""
+}
+```",,,
+2026-08-30T16:49:40,"```json
+{
+    ""first_digits"": ""Les chiffres situ\u00e9s avant la lettre arabe, sans espaces ni s\u00e9parateurs"",
+    ""arabic_letter"": ""La lettre arabe centrale uniquement"",
+    ""last_digits"": ""Les chiffres situ\u00e9s apr\u00e8s la lettre arabe, sans espaces ni s\u00e9parateurs"",
+    ""full_plate"": ""Le matricule normalis\u00e9 au format first_digits | arabic_letter | last_digits. Ne pas inventer de caract\u00e8re illisible.""
+}
+```",,,
+2026-08-30T16:49:46,"```json
+{
+    ""first_digits"": ""73215"",
+    ""arabic_letter"": ""ل"",
+    ""last_digits"": ""8"",
+    ""full_plate"": ""Le matricule normalis\u00e9 au format first_digits | arabic_letter | last_digits. Ne pas inventer de caract\u00e8re illisible.""
+}
+```",,,
+2026-08-30T16:50:07,"```json
+{
+    ""first_digits"": ""58540"",
+    ""arabic_letter"": ""j"",
+    ""last_digits"": ""26"",
+    ""full_plate"": ""58540|j|26""
+}
+```",,,
+2026-08-30T17:02:01,"```json
+{
+    ""first_digits"": ""73215"",
+    ""arabic_letter"": ""ل"",
+    ""last_digits"": ""8"",
+    ""full_plate"": ""Le matricule normalis\u00e9 au format first_digits | arabic_letter | last_digits. Ne pas inventer de caract\u00e8re illisible.""
+}
+```",,,
+2026-08-30T17:02:24,"```json
+{
+    ""first_digits"": ""58540"",
+    ""arabic_letter"": ""j"",
+    ""last_digits"": ""26"",
+    ""full_plate"": ""58540|j|26""
+}
+```",,,
+2026-08-30T17:02:45,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 i 38""
+}
+```",,,
+2026-08-30T17:02:50,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 | i | 38""
+}
+```",,,
+2026-08-30T17:02:54,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""fi38"",
+    ""last_digits"": """",
+    ""full_plate"": ""9534 fi38""
+}
+```",,,
+2026-08-30T17:02:59,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""f"",
+    ""last_digits"": ""138"",
+    ""full_plate"": ""9534 f 138""
+}
+```",,,
+2026-08-30T17:03:04,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 | i | 38""
+}
+```",,,
+2026-08-30T17:03:09,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 i 38""
+}
+```",,,
+2026-08-30T17:18:11,"```json
+{
+    ""first_digits"": ""534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""534 | i | 38""
+}
+```",,,
+2026-08-30T17:18:16,"```json
+{
+    ""first_digits"": ""9534"",
+    ""arabic_letter"": ""i"",
+    ""last_digits"": ""38"",
+    ""full_plate"": ""9534 i 38""
+}
+```",,,
+2026-08-30T17:39:15,9534 | أ | 38,9534,أ,38
+2026-08-30T17:41:06,2489 | و | 0,2489,و,0
+2026-08-30T17:41:10,2489 | أ | 0,2489,أ,0
+2026-08-30T17:41:25,24896 | ب | 11,24896,ب,11
+2026-08-30T17:41:38,60567 | أ | 6,60567,أ,6
+2026-08-30T17:42:06,60567 | أ | 0,60567,أ,0
+2026-08-30T17:42:52,6240 | أ | 0,6240,أ,0
+2026-08-30T17:43:44,0 | و | 0,0,و,0
+2026-08-30T17:44:04,0567 | أ | 6,0567,أ,6
+2026-08-30T17:44:29,24896 | أ | 0,24896,أ,0
+2026-08-30T17:45:35,341 | ا | 38,341,ا,38
+2026-08-30T17:45:46,73215 | أ | 18,73215,أ,18
+2026-08-30T17:46:32,58540 | أ | 26,58540,أ,26
+2026-08-30T17:46:45,73215 | أ | 18,73215,أ,18
+2026-08-30T17:47:14,4 | أ | 0,4,أ,0
+2026-08-31T12:38:03,58540 | أ | 26,58540,أ,26
+2026-08-31T12:38:17,73215 | أ | 1,73215,أ,1
+2026-08-31T12:38:20,73215 | أ | 18,73215,أ,18
+2026-08-31T12:38:37,9534 | أ | 38,9534,أ,38
+2026-08-31T12:45:10,0 | ه | 0,0,ه,0
+2026-08-31T12:45:29,90182 | ز | 1,90182,ز,1
+2026-08-31T12:45:37,90182 | و | 1,90182,و,1
+2026-08-31T12:45:52,60989 | د | 0,60989,د,0
+2026-08-31T12:46:04,39487 | أ | 10,39487,أ,10
+2026-08-31T12:46:11,6 | ج | 0,6,ج,0
+2026-08-31T12:46:14,36360 | ج | 0,36360,ج,0
+2026-08-31T12:46:17,6 | ج | 0,6,ج,0
+2026-08-31T12:46:21,60 | ل | 0,60,ل,0

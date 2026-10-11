@@ -1,0 +1,38 @@
+{
+  "name": "mizan-backend",
+  "version": "1.0.0",
+  "description": "Backend API - Projet Mizan (Marsa Maroc)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "db:init": "psql -U $PGUSER -d $PGDATABASE -f schema.sql"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "fontkit": "^2.0.4",
+    "html5-qrcode": "^2.3.8",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^1.4.5-lts.1",
+    "pdfkit": "^0.19.1",
+    "pg": "^8.23.0",
+    "pg-hstore": "^2.3.4",
+    "qrcode": "^1.5.4",
+    "react-router-dom": "^7.18.3",
+    "sequelize": "^6.37.8",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

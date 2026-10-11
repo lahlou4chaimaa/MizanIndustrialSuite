@@ -1,0 +1,11 @@
+# Chemins vers tes dossiers (relatifs ou absolus)
+path: C:\Users\lahlo\Documents\mizan\mizan-backend\dataset  # Dossier racine du dataset (optionnel si train/val sont en absolu)
+train: images/train  # Dossier des images d'entraînement
+val: images/val      # Dossier des images de validation
+
+# Nombre de classes
+nc: 1
+
+# Noms des classes (index 0 pour la plaque d'immatriculation)
+names:
+  0: license_plate

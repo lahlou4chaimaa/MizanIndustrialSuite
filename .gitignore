@@ -1,0 +1,37 @@
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated files
+*.log
+
+# Python virtual environments
+mizan-backend/venv/
+**/venv/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# Node dependencies and generated files
+**/node_modules/
+**/.expo/
+**/dist/
+**/build/
+
+# Secrets
+.env
+.env.*
+!.env.example
